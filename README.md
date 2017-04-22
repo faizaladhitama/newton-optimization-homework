@@ -10,4 +10,4 @@
    - Kode dasar (Bebas)
    - Optimalisasi algoritma (Bebas)
 - Link laporan : lurus.in/anuma1tugas2
-- Link edit laporan : https://docs.google.com/document/d/1ux7kz0tq9JO6HwEMBgyUgqrYSYi1aowbNHQBMxL2iZ4/edit
+- Link edit laporan : lurus.in/editanuma1tugas2
