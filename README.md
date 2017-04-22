@@ -9,4 +9,4 @@
  - Fungsi b
    - Kode dasar (Bebas)
    - Optimalisasi algoritma (Bebas)
- 
+- Link laporan : lurus.in/anuma1tugas2 
