@@ -13,6 +13,6 @@ for i=1:n
     end
     temp = temp + sin(temp_x)*power(sin(i*power(temp_x,2)/pi),20);
 end
-y = -temp
+y = -temp;
 z = gradient(y);
 end
